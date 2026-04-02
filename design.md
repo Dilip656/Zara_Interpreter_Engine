@@ -188,8 +188,8 @@ show x + y * 2
 
 | Name | Responsibility |
 |------|----------------|
-| Bhaskar Mahato | Tokenizer + Integration |
-| Dilip Vaishnav | Parser + AST |
+| Dilip Vaishnav | Tokenizer + Integration |
+| Bhaskar Mahato | Parser + AST |
 | Rohit Kumar | Execution + Interpreter |
 
 All members are responsible for understanding the complete system for the viva.
